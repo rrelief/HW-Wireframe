@@ -1,0 +1,81 @@
+/** 
+CSS styling for HW-1
+**/
+
+*{
+	box-sizing: border-box;
+	text-align: center;
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-size: 18px;
+} 
+
+body{
+	background: #777;
+}
+
+header{
+	padding: 1.7%;
+	background-color: #ebebeb;
+	color: #888;
+	font-weight: bold;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+nav{
+	padding: 1%;
+	background-color: #ebebeb;
+	color: #888;
+	margin-top: .7%;	
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+section{
+	background-color: #ebebeb;
+	color: #888;
+	padding: 1%;
+	margin-top: .7%;
+	margin-right: 10%;
+	margin-left: 10%;
+	float:left;
+	height: 300px;
+	width: 43.5%;
+}
+
+aside {
+    color: #888;
+    padding: 1%;
+    background: #ebebeb;
+    margin-top: 0.7%;
+    margin-left: -5.5%;
+    height: 300px;
+    width: 32%;
+    float: left;
+}
+
+article{
+	background-color: #777;
+	color: #ebebeb;
+	height: 271px;
+}
+
+h1,p{
+	background-color: #ebebeb;
+	color: #777;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+	height: 45px;
+}
+
+footer{
+	background-color: #ebebeb;
+	color: #888;
+	height: 44px;
+	padding: 1%;
+	clear: both;
+	margin-top: .7%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
